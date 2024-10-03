@@ -1,0 +1,75 @@
+# Xcode
+.DS_Store
+build/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+
+# Swift Package Manager
+/.build
+/Packages
+Package.pins
+Package.resolved
+
+# CocoaPods
+Pods/
+/Podfile.lock
+
+# Carthage
+Carthage/Build
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Temporary Files
+*.swp
+*.swo
+*~.nib
+*~.swift
+*~.h
+*~.m
+*~.plist
+
+# App Thinning
+*.ipa
+
+# xcuserdata
+*.xcuserdata
+
+# Certificates
+*.cer
+*.mobileprovision
+*.xcconfig
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Xcode Generated Files
+*.xccheckout
+*.xcscmblueprint
+
+# IDE specific
+.idea/
+*.workspace
+
+# Xcode Logs
+*.xcactivitylog
+
+# SwiftPM
+.swiftpm/xcode/
+
+# SPM Binary
+/.build/
+
+# Generated Scheme Management Files
+xcshareddata/
+
+# Xcode's Archive Folder
+*.xcarchive
